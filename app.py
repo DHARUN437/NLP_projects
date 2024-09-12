@@ -102,7 +102,7 @@ def main():
     
     # Title and intro
     st.markdown("# 🍽️ Restaurant Review Sentiment Analysis")
-    st.markdown("Welcome! Analyze restaurant reviews and find similar opinions from our dataset.")
+    st.markdown("Welcome! Analyze your restaurant reviews.")
 
     # Layout for input and results
     with st.form(key='nlpForm'):
